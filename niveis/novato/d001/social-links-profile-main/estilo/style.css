@@ -1,0 +1,77 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root{
+    --cor-letras: hsl(0, 0%, 100%);
+    --cor-caixas: hsl(0, 0%, 20%);
+    --cor-main: hsl(0, 0%, 12%);
+    --cor-fundo: hsl(0, 0%, 8%);
+    --cor-interagir: hsl(75, 94%, 57%);
+    --fonte-principal: "Inter", sans-serif;
+}
+
+*{ 
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: var(--fonte-principal);
+    background-color: var(--cor-fundo);
+    color: var(--cor-letras);
+    position: relative;
+}
+body > div{
+    position: absolute;
+    left: 50vw;
+    top: 50vh;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+}
+
+main{
+    max-width:25vw;
+    min-width: 280px;
+    background-color: var(--cor-main);
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    margin: auto;
+}
+main a{
+    margin: 10px auto;
+    padding: 10px;
+    background-color: var(--cor-caixas);
+    max-width: 20vw;
+    min-width: 250px;
+    border-radius: 7px;
+    font-weight: bold;
+    display: block;
+    text-decoration: none;
+    color: var(--cor-letras);
+}
+main a:hover{
+    background-color: var(--cor-interagir);
+    color: black;
+    font-weight: bold;
+    transition: 0.5s;
+}
+main > p{
+    font-size: 14px;
+    padding: 15px;
+}
+main div{
+    font-weight: 550;
+    padding: 10px;
+}
+main > img{
+    width: 100px;
+    padding: 10px;
+    border-radius: 50%;
+}
+#nome{
+    font-size: 1.5em;
+}
+#local{
+    color: var(--cor-interagir);
+}
