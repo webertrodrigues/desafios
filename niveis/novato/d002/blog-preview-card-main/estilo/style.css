@@ -18,6 +18,7 @@ body{
     background-color: var(--cor-fundo);
     position: relative;
     font-family: var(--font-text);
+    padding: 15px;
 }
 
 main{
@@ -70,12 +71,16 @@ main h1{
     background-color: var(--cor-fundo);
     display: inline-block;
     border-radius: 5px;
-    font-weight: bold;
+    font-weight: 800;
     padding: 8px;
 }
 
 #cont{
     color: var(--cor-text);
+}
+
+#publi{
+    font-weight: 600;
 }
 
 footer{
