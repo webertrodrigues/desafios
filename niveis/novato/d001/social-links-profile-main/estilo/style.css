@@ -56,8 +56,9 @@ main a:hover{
     font-weight: bold;
     transition: 0.5s;
 }
-main li{
+main ul{
     list-style-type: none;
+    list-style-position: inside;
 }
 main > p{
     font-size: 14px;
