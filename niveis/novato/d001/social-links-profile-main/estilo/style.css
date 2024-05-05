@@ -49,6 +49,7 @@ main a{
     display: block;
     text-decoration: none;
     color: var(--cor-letras);
+    font-size: 14px;
 }
 main a:hover{
     background-color: var(--cor-interagir);
