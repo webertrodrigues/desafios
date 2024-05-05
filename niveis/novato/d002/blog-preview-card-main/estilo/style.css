@@ -45,8 +45,8 @@ main > p > img{
 main > img{
     border-radius: 10px;
     margin-bottom: 20px;
-    max-width: 80vw;
-    min-width: 10vw;
+    max-width: 100%;
+    min-width: 20%;
 }
 main h1{
     font-size: 1.8em;
