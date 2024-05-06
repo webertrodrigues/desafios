@@ -18,7 +18,7 @@ body{
     background-color: var(--cor-fundo);
     position: relative;
     font-family: var(--font-text);
-    padding: 15px;
+    padding: 0px 20px;
 }
 
 main{
@@ -45,8 +45,8 @@ main > p > img{
 main > img{
     border-radius: 10px;
     margin-bottom: 20px;
-    max-width: 100%;
-    min-width: 20%;
+    max-width: 80vw;
+    min-width: 20vw;
 }
 main h1{
     font-size: 1.8em;
