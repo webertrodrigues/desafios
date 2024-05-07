@@ -100,3 +100,7 @@ main div{
     color: var(--cor1);
     font-weight: bold;
 }
+
+footer p{
+    font-size: 1.53vw;
+}
