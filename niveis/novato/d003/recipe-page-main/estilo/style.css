@@ -19,12 +19,15 @@
     --cor8: hsl(24, 5%, 18%);
 }
 
-body, html{
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
     background-color: var(--cor5);
     padding: 70px 20px;
     font-family: var(--font-text);
-    height: 100%;
-    width: 100%;
 }
 
 main{
