@@ -26,29 +26,33 @@ html{
 
 body{
     background-color: var(--cor5);
-    padding: 70px 20px;
+    padding: 7vw 2vw;
     font-family: var(--font-text);
 }
 
 main{
     background-color: var(--cor3);
     max-width: 32vw;
-    min-width: 60vw;
+    min-width: 70vw;
     margin: auto;
     padding: 2.5vw;
-    border-radius: 20px;
+    border-radius: 2vw;
 }
 main ul,ol{
-    list-style-position: inside;
+    text-indent: 2vw;
+    margin: 2vw;
+}
+main li{
+    margin: 1.1vw 0px;
 }
 main img{
     max-width: 32vw;
-    min-width: 60vw;
-    border-radius: 10px;
-    margin-bottom: 15px;
+    min-width: 70vw;
+    border-radius: 1vw;
+    margin-bottom: 1.5vw;
 }
 main h1, h2{
-    margin-bottom: 3vh;
+    margin-bottom: 3vw;
     font-family: var(--font-titulos-principais);
 }
 main h1{
@@ -57,8 +61,8 @@ main h1{
 }
 main p,ul,ol,td{
     font-size: 1.53vw;
-    margin-bottom: 20px;
-    line-height: 1.7em;
+    margin-bottom: 2vw;
+    line-height: 1.5em;
     color: var(--cor7);
 }
 main h2{
@@ -66,14 +70,14 @@ main h2{
     color: var(--cor1);
 }
 main div{
-    padding: 30px 0px;
+    padding: 3vw 0vw;
 }
 
 #time{
     background-color: var(--cor4);
-    padding: 20px 10px 10px 10px;
-    border-radius: 10px;
-    margin: 20px 0px 20px 20px;
+    padding: 1vw 1vw 1vw 1vw;
+    border-radius: 1vw;
+    margin: 2vw 0vw 2vw 2vw;
 }
 #time > h2{
     font-family: var(--font-text);
@@ -85,9 +89,14 @@ main div{
     width: 60vw;
 }
 #nutri td{
-    padding: 10px;
+    padding: 1vw;
     width: 50%;
 }
 #nutri td{
     margin-left: 50vw;
+}
+
+.num{
+    color: var(--cor1);
+    font-weight: bold;
 }
