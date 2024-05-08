@@ -1,89 +1,89 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Página de receita
 
-![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+![Visualização de design para o desafio de codificação da página de receita](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## Bem-vindo!👋
 
-Thanks for checking out this front-end coding challenge.
+Obrigado por conferir este desafio de codificação front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](https://www.frontendmentor.io) Os desafios o ajudam a melhorar suas habilidades de codificação, construindo projetos realistas.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+** Para fazer esse desafio, você precisa de um entendimento básico de HTML e CSS. **
 
-## The challenge
+## O desafio
 
-Your challenge is to build out this recipe page and get it looking as close to the design as possible.
+Seu desafio é criar esta página de receita e fazer com que pareça o mais próximo possível do design.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Você pode usar todas as ferramentas que deseja ajudá -lo a concluir o desafio.Então, se você tiver algo que gostaria de praticar, fique à vontade para tentar.
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+Quer algum apoio no desafio? [Junte-se à nossa comunidade](https://www.frontendmentor.io/community) e faça perguntas no canal **#ajuda**.
 
-## Where to find everything
+## onde encontrar tudo
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+Sua tarefa é criar o projeto para os designs dentro da pasta `/design`.Você encontrará uma versão móvel e uma área de trabalho do design.
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+Os projetos estão em formato estático JPG.O uso de JPGs significa que você precisará usar seu melhor julgamento para estilos como `font-size`,` preenchimento` e 'margem'.
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
+Se você deseja que os arquivos de design (forneçamos versões Sketch & Figma) para inspecionar o design com mais detalhes, você pode [assinar como um membro pro](https://www.frontendment.io/pro).
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+Todos os ativos necessários para este projeto estão na pasta `/ativos`.As imagens já foram exportadas para o tamanho da tela corretas e otimizadas.
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+Também incluímos arquivos de fonte variável e estática para as fontes necessárias para este projeto.Você pode optar por vincular -se ao Google Fontes ou usar os arquivos de fonte local para hospedar as fontes.Observe que removemos os arquivos de fonte estática para os pesos da fonte que não são necessários para este projeto.
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+Há também um arquivo `style-guide.md` contendo as informações de que você precisa, como paleta de cores e fontes.
 
-## Building your project
+## Construindo seu projeto
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+Sinta -se à vontade para usar qualquer fluxo de trabalho com o qual você se sinta confortável.Abaixo está um processo sugerido, mas não sente que você precisa seguir estas etapas:
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+1. Inicialize seu projeto como um repositório público no [github](https://github.com/).A criação de um repositório facilitará o compartilhamento de seu código com a comunidade, se você precisar de ajuda.Se você não tiver certeza de como fazer isso, [faça uma leitura deste recurso Git](https://try.github.io/).
+2. Configure seu repositório para publicar seu código em um endereço da Web.Isso também será útil se você precisar de ajuda durante um desafio, pois poderá compartilhar o URL do seu projeto com o seu URL de repo.Existem várias maneiras de fazer isso e fornecemos algumas recomendações abaixo.
+3. Veja os designs para começar a planejar como você abordará o projeto.Esta etapa é crucial para ajudá -lo a pensar no futuro para as aulas CSS para criar estilos reutilizáveis.
+4. Antes de adicionar estilos, estruture seu conteúdo com HTML.Escrever seu HTML primeiro pode ajudar a concentrar sua atenção na criação de conteúdo bem estruturado.
+5. Escreva os estilos de base do seu projeto, incluindo estilos de conteúdo geral, como 'Font-Family` e `Font-Size`.
+6. Comece a adicionar estilos à parte superior da página e resolva.Apenas passe para a próxima seção quando estiver feliz por concluir a área em que está trabalhando.
 
-## Deploying your project
+## implantando seu projeto
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+Como mencionado acima, existem muitas maneiras de hospedar seu projeto gratuitamente.Nossos hosts recomendados são:
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+Você pode hospedar seu site usando uma dessas soluções ou qualquer um de nossos outros fornecedores confiáveis. [Leia mais sobre nossos hosts recomendados e confiáveis](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
 
-## Create a custom `README.md`
+## Crie um `readme.md` personalizado
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+Recomendamos fortemente substituir este `readme.md` com um personalizado.Fornecemos um modelo dentro do arquivo [`readme-template.md`](./ readme-template.md) neste código de partida.
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+O modelo fornece um guia para o que adicionar.Um `ReadMe` personalizado ajudará você a explicar seu projeto e refletir sobre seus aprendizados.Sinta -se à vontade para editar nosso modelo o quanto quiser.
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+Depois de adicionar suas informações ao modelo, exclua este arquivo e renomeie o arquivo `readme-template.md` para `readme.md`.Isso fará com que ele apareça como o arquivo ReadMe do seu repositório.
 
-## Submitting your solution
+## enviando sua solução
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+Envie sua solução na plataforma para o resto da comunidade ver.Siga nosso ["Guia completo para enviar soluções"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) para obter dicas sobre como fazeresse.
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+Lembre -se, se você estiver procurando feedback sobre sua solução, faça perguntas ao enviá -lo.Quanto mais específico e detalhado você estiver com suas perguntas, maior a chance de você receber um feedback valioso da comunidade.
 
-## Sharing your solution
+## compartilhando sua solução
 
-There are multiple places you can share your solution:
+Existem vários lugares em que você pode compartilhar sua solução:
 
-1. Share your solution page in the **#finished-projects** channel of our [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+1. Compartilhe sua página de solução no canal **#acabamento-Projetos ** de nossa [comunidade](https://www.frontendmentor.io/community).
+2. Tweet [@Frontendmentor](https://twitter.com/frontendmentor) e mencione **@Frontendmentor **, incluindo o repo e os URLs ao vivo no tweet.Gostaríamos muito de dar uma olhada no que você construiu e ajudar a compartilhá -lo.
+3. Compartilhe sua solução em outros canais sociais, como o LinkedIn.
+4. Blog sobre sua experiência em criar seu projeto.Escrever sobre seu fluxo de trabalho, escolhas técnicas e conversar com seu código é uma maneira brilhante de reforçar o que você aprendeu.Ótimas plataformas para escrever são [dev.to](https://dev.to/), [hashnode](https://hashnode.com/) e [codenewbie](https://community.codenewbie.org/).
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+Fornecemos modelos para ajudá -lo a compartilhar sua solução depois de enviá -la na plataforma.Por favor, edite -os e inclua perguntas específicas quando estiver procurando feedback.
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
+Quanto mais específico você for com suas perguntas, maior a probabilidade de outro membro da comunidade lhe dar um feedback.
 
-## Got feedback for us?
+## tem feedback para nós?
 
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
+Adoramos receber feedback!Estamos sempre procurando melhorar nossos desafios e nossa plataforma.Então, se você tiver alguma coisa que gostaria de mencionar, envie um e -mail para o HI [AT] Frontendmentor [DOT] IO.
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+Esse desafio é totalmente gratuito.Compartilhe -o com qualquer pessoa que o ache útil para a prática.
 
-**Have fun building!** 🚀
+** Divirta -se edifício! ** 🚀
