@@ -1,6 +1,6 @@
 # Mentor de front -end - perfil de links sociais
 
-![Visualização de design para o desafio de codificação de perfil de links sociais](./Design/desktop-preview.jpg)
+![Visualização de design para o desafio de codificação de perfil de links sociais](./design/desktop-preview.jpg)
 
 ## Bem-vindo!👋
 
