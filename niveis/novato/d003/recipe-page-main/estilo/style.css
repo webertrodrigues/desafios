@@ -68,6 +68,7 @@ main p,ul,ol,td{
 }
 main h2{
     font-size: 1.9vw;
+    font-weight: normal;
     color: var(--cor1);
 }
 main div{
