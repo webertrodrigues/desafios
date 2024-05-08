@@ -1,6 +1,6 @@
 # Mentor de frontend - cartão de visualização do blog
 
-![Visualização de design para o desafio de codificação do cartão de visualização do blog](./Design/desktop-preview.jpg)
+![Visualização de design para o desafio de codificação do cartão de visualização do blog](./design/desktop-preview.jpg)
 
 ## Bem-vindo!👋
 
