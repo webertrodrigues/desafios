@@ -18,7 +18,7 @@ Você pode usar todas as ferramentas que deseja ajudá -lo a concluir o desafio.
 
 Quer algum apoio no desafio? [Junte-se à nossa comunidade](https://www.frontendmentor.io/community) e faça perguntas no canal **#ajuda**.
 
-## onde encontrar tudo
+## Onde encontrar tudo
 
 Sua tarefa é criar o projeto para os designs dentro da pasta `/design`.Você encontrará uma versão móvel e uma área de trabalho do design.
 
