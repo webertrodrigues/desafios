@@ -10,7 +10,8 @@ Estarei realizando alguns desafios em CSS, HTML e JavaScript básico da Frontend
     <ul>
         <li><a href="niveis/novato/d002/blog-preview-card-main">Codigo Desafio 2</a></li>
     </ul>
-    <li><a href="https://https://webertrodrigues.github.io/desafios/niveis/novato/d003/recipe-page-main/index.html">Desafio  - Página de receitas</a></li>
+    <br>
+    <li><a href="https://webertrodrigues.github.io/desafios/niveis/novato/d003/recipe-page-main/index.html">Desafio  - Página de receitas</a></li>
     <ul>
         <li><a href="niveis/novato/d003/recipe-page-main">Codigo Desafio 3</a></li>
     </ul>
